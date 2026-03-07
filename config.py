@@ -8,9 +8,9 @@ OWNER_ID = 8023726997
 
 MSG_EFFECT = 5046509860389126442
 
-SHORT_URL = "linkshortify.com" # shortner url 
-SHORT_API = "" 
-SHORT_TUT = "https://t.me/How_to_Download_7x/26"
+SHORT_URL = "Arolinks.com" # shortner url 
+SHORT_API = "ef7e0434f2fc6e97dbf4f981f9bb3ed5aa90bae8" 
+SHORT_TUT = "https://t.me/new_tutorial/3"
 
 # Bot Configuration
 SESSION = "yuvi"
